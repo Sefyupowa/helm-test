@@ -1,6 +1,6 @@
 appName: flask-app
 
-envName: dev 
+envName: dev1 
 replicas: 1
 
 
