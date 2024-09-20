@@ -1,7 +1,9 @@
 appName: flask-app
 
 envName: dev1 
-replicas: 3
+replicas: 1
 
 
 version: v9
+
+hostname: clm-dev.apps-crc.testing
