@@ -3,6 +3,7 @@ kind: Route
 metadata:
   name: route-openshift
 spec:
+  host: {{ .Values.hostname }}
   tls:
     termination: edge
   port:

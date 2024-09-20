@@ -6,3 +6,5 @@ replicas: 1
 
 imageTage: pedro229/flask-app
 version: v1
+
+hostname: default.apps-crc.testing
