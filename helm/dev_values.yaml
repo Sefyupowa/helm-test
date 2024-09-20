@@ -4,6 +4,6 @@ envName: dev1
 replicas: 1
 
 
-version: v11
+version: v12
 
 hostname: clm-dev.apps-crc.testing
